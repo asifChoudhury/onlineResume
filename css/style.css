@@ -26,7 +26,7 @@ h6 {
 
 h1 {
   font-size: 40px;
-  color: #f5a623;
+  color: white;
   line-height: 48px;
   display: inline;
 }
@@ -34,7 +34,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999;
+  color: black;
   line-height: 29px;
   padding: 10px;
 }
@@ -42,7 +42,6 @@ h2 {
 h3 {
   font-style: italic;
   font-size: 20px;
-  color: #000;
   line-height: 22px;
 }
 
@@ -61,19 +60,34 @@ h5 {
 
 }
 
+hr {
+    border: 5px solid black;
+}
 
 .date-text {
   font-style: italic;
   font-size: 14px;
-  color: #999;
+  color: #8A1E1E;
   line-height: 16px;
   float: left;
+}
+
+.project-dates {
+  font-style: italic;
+  font-size: 14px;
+  color: #8A1E1E;
+  line-height: 16px;
+  float: left;
+}
+
+.project-description {
+  color: #4C2B2B;
 }
 
 .location-text {
   font-style: italic;
   font-size: 14px;
-  color: #999;
+  color: #FF3600;
   line-height: 16px;
   float: right;
 
@@ -81,7 +95,7 @@ h5 {
 
 p {
   font-size: 14px;
-  color: #333;
+  color: #B77878;
   line-height: 21px;
 }
 
@@ -95,41 +109,45 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #f3f3f3;
   line-height: 28px;
 }
 
 #skills-h3 {
-  color: #f5ae23;
   display: none;
+  padding-top: 20px;
+  padding-bottom: 0;
 }
 
 .orange {
-  background-color: #f5ae23;
+  background-color: #FF3600;
 }
 
 .orange-text {
-  color: #f5ae23;
+  color: #FF3600;
 }
 
 .white-text {
-  font-weight: bold;
-  color: #fff;
+  color: white;
 }
 
-.gray {
-  background-color: #f3f3f3;
+.black-text {
+  font-weight: bold;
+  color: black;
+}
+
+.black {
+  background-color: black;
   padding-bottom: 10px;
   clear:both;
 }
 
-.dark-gray {
-  background-color: #4a4a4a;
+.footer {
+  background-color: #AF2424;
 }
 
 /* TODO: Replace with image later */
-#header {
-  background-color: #484848;
+.orange-div {
+  background-color: #FF3600;
 }
 
 .flex-box {
@@ -158,10 +176,27 @@ ul {
 
 img {
   padding: 10px;
+  padding-left: 0;
+  width: 250px;
 }
 
 span {
   padding: 5px;
+}
+
+.url {
+    color: #B77878;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.school-major {
+  color: #B99494;
+}
+
+.online-classes {
+    padding: 0;
+    color: white;
 }
 
 #lets-connect {
@@ -204,6 +239,10 @@ span {
   height: 400px;
   width: 100%;
   padding-bottom: 5%;
+}
+
+#skills {
+    flex-direction: column;
 }
 
 @media only screen and (min-width: 750px) {
