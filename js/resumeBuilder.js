@@ -63,32 +63,32 @@ bio.display();
 var work = {
     jobs: [
         {
-           employer: "ABC",
+           employer: "ABC Industries",
            title: "Analyst",
            location: "Sanfrancisco, CA",
            dates: "In progress",
-           description: "Analyze things."
+           description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus.."
         },
         {
-           employer: "DEF",
-           title: "Teacher",
-           location: "New York, NY",
-           dates: "2010 - 2013",
-           description: "Teach Biology"
+           employer: "DEF Tech",
+           title: "Supervisor",
+           location: "London, United Kingdom",
+           dates: "2006 - 2010",
+           description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus."
         },
         {
-           employer: "DEF",
-           title: "Teacher",
+           employer: "Lorem Ipsum",
+           title: "Team Leader",
            location: "New York, NY",
-           dates: "2010 - 2013",
-           description: "Teach Biology"
+           dates: "2004 - 2006",
+           description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus."
         },
         {
-           employer: "DEF",
-           title: "Teacher",
+           employer: "United Nations",
+           title: "Project Lead",
            location: "New York, NY",
-           dates: "2010 - 2013",
-           description: "Teach Biology"
+           dates: "2000 - 2003",
+           description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus."
         }
 
     ],
@@ -204,31 +204,31 @@ var projects = {
         {
             "title": "Online Resume",
             "dates": "April'16",
-            "description": "Interactive resume",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus.",
             "images": "images/fry.jpg"
         },
         {
             "title": "Portfolio",
             "dates": "April'16",
-            "description": "Portfolio",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus.",
             "images": "images/fry.jpg"
         },
         {
             "title": "Animal Trading Cards",
             "dates": "April'16",
-            "description": "Web",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus.",
             "images": "images/fry.jpg"
         },
         {
             "title": "Timer App",
             "dates": "Jan'16",
-            "description": "iOS App",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus.",
             "images": "images/fry.jpg"
         },
         {
             "title": "Tip Calculator App",
             "dates": "Feb'16",
-            "description": "iOS App",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ligula magna, volutpat nec est in, rutrum accumsan tellus. Nunc gravida massa dapibus ante scelerisque, eget rutrum tellus viverra. Sed sed lacus et urna placerat lacinia. Maecenas eleifend est nec erat porta ultricies. In aliquam dui lectus, id efficitur purus pharetra in. Aliquam neque nulla, viverra sed imperdiet et, tempor vel massa. Donec quis quam est. Sed dapibus cursus lorem, ac tincidunt neque volutpat quis. Integer dapibus ex id euismod mattis. Sed condimentum risus nulla, ut elementum tortor tempor eget. Pellentesque sit amet nunc tincidunt, cursus elit sit amet, malesuada mi. Ut sapien nisi, ullamcorper sed nisl imperdiet, luctus tincidunt elit. Proin condimentum varius enim at gravida. Suspendisse ut velit vitae odio volutpat semper quis et tortor. Nullam at metus et risus tincidunt commodo. Curabitur sit amet lacus ut libero cursus gravida nec nec lacus.",
             "images": "images/fry.jpg"
         }
     ],
@@ -250,6 +250,8 @@ var projects = {
 }
 
 projects.display();
+
+$("#mapDiv").append(googleMap);
 
 var formattedMobile = HTMLmobile.replace("%data%", bio.contacts.mobile);
 var formattedEmail = HTMLemail.replace("%data%", bio.contacts.email);
