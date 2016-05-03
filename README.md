@@ -6,3 +6,6 @@ I plan to improve it further as I get more skills under the belt.
 
 #Version 1.0 beta
 - Basic structure for the page is set up with placeholder information.
+
+#Version 2.0
+- One page scrolling added.
