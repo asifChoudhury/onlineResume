@@ -220,7 +220,7 @@ var projects = {
         }
     ],
     'display': function() {
-        for (var project = 0; project < projects.projects; project++) {
+        for (var project = 0; project < projects.projects.length; project++) {
             $('#projects').append(HTMLprojectStart);
 
             var formattedProjectTitle = HTMLprojectTitle.replace(data, projects.projects[project].title);
