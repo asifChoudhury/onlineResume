@@ -10,4 +10,4 @@ I plan to improve it further as I get more skills under the belt.
 ### Version 2.0
 - One page scrolling added.
 
-Chekout the [project](http://asifchoudhury.github.io/onlineresume).
+Chekout the [project](http://asifchoudhury.github.io/onlineResume).
